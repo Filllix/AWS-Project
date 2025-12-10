@@ -4,8 +4,9 @@
 This repository contains a simple, production-style deployment of a static website hosted on an Amazon EC2 instance using the Nginx web server.  
 The purpose of this project is to demonstrate foundational DevOps skills, including Linux server management, web server configuration, and cloud infrastructure provisioning.
 
----
+
 https://github.com/Filllix/AWS-Project/blob/main/Simple%20Web%20Deployment%20on%20AWS%20EC2%20Project.pdf
+
 ---
 
 ## 📘 Table of Contents
@@ -130,5 +131,3 @@ Managing system services with systemctl
 Deploying static content securely
 Configuring firewall (Security Group)
 Basic web hosting workflow in the cloud
-
-https://github.com/Filllix/AWS-Project/blob/main/Simple%20Web%20Deployment%20on%20AWS%20EC2%20Project.pdf

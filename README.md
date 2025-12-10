@@ -1,4 +1,4 @@
-# 🌐 Simple Web Deployment on AWS EC2 using Nginx  
+[Simple Web Deployment on AWS EC2 Project.pdf](https://github.com/user-attachments/files/24072466/Simple.Web.Deployment.on.AWS.EC2.Project.pdf)# 🌐 Simple Web Deployment on AWS EC2 using Nginx  
 **Professional DevOps Beginner Project**
 
 This repository contains a simple, production-style deployment of a static website hosted on an Amazon EC2 instance using the Nginx web server.  
@@ -128,4 +128,6 @@ Managing system services with systemctl
 Deploying static content securely
 Configuring firewall (Security Group)
 Basic web hosting workflow in the cloud
+
+[![PDF][Simple Web Deployment on AWS EC2 Project.pdf](https://github.com/user-attachments/files/24072467/Simple.Web.Deployment.on.AWS.EC2.Project.pdf)
 
